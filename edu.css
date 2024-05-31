@@ -43,6 +43,7 @@ nav .ul_links .li {
 .home_section {
     display: flex;
     padding: 40px 20px; 
+    height: 100vh:
     justify-content: center;
     align-items: center;
 }
