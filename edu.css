@@ -42,7 +42,7 @@ nav .ul_links .li {
 
 .home_section {
     display: flex;
-/* Increased padding for larger screens */
+    padding: 40px 20px; 
     justify-content: center;
     align-items: center;
 }
@@ -52,7 +52,7 @@ nav .ul_links .li {
     flex-wrap: wrap;
     max-width: 1250px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
 }
 
 .home_section .section_container .col_1,
