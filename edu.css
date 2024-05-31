@@ -81,7 +81,7 @@ nav .ul_links .li {
     width: 100%;
     max-width: 600px; /* Increased max-width for larger screens */
     height: auto;
-    margin-top: 10%;
+    margin-top: 8%;
 }
 
 .home_section .section_container .col_1 h3 {
@@ -201,7 +201,7 @@ nav .ul_links .li {
     }
     
     .home_section {
-        padding: 60px 20px; /* Increased padding for home section */
+        padding: 40px 10px; /* Increased padding for home section */
     }
     
     .home_section .section_container .col_1 h3 {
